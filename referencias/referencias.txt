@@ -1,0 +1,8 @@
+cores
+
+
+--vermelho : #BF1736
+--verdeEscuro : #50A638
+--verdeClaro : #9DBF21
+--azul : #2128BF
+
